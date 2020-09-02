@@ -10,6 +10,8 @@ Demo & more infos: [Thread](https://twitter.com/cyrildiagne/status/1256916982764
 
 ## Modules
 
+[![Run on Repl.it](https://repl.it/badge/github/chintan992/ar-cutpaste)](https://repl.it/github/chintan992/ar-cutpaste)
+
 This prototype runs as 3 independent modules:
 
 - **The mobile app**
